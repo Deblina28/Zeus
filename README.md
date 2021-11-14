@@ -22,11 +22,14 @@ First, we tinkered with TI’s Webench Power Supply Design and found some really
 - Power Inductors
 - Complementary Passive components
 
-#Challenges we ran into
+# Challenges we ran into
+Orienting the PCB Layout was a bit challenging, Along with that routing and connecting the components was bit tricky.
 
-#Accomplishments that we're proud of
+# Accomplishments that we're proud of
+Making the PCB design and the completing the project on time with video and presentation was our greatest achievement. 
 
-#What we learned
+# What we learned
+It was a good experience, about learning about the fly-back controller, which not only provides isolation but also has great efficiency. How SMPS have been so efficient and small yet delivering such high power. 
 
 # What's next for Zeus
 Later this week we are thinking of fabricating this PCB along with component sourcing, to make it real.
