@@ -31,3 +31,6 @@ First, we tinkered with TI’s Webench Power Supply Design and found some really
 #What's next for Zeus
 Later this week we are thinking of fabricating this PCB along with component sourcing, to make it real.
 Meanwhile, it was a good experience, about learning about the flyback controller, which not only provides isolation but also has great efficiency.
+
+#Warning
+This Circuit deals with AC mains (aka High Voltage that can kill you). Take precautions before performing. You have been warned.
